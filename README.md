@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduardoCruzDev
-- 👀 I’m interested in Back Programming side
+- 👀 I’m interested in Backend Programming side
 - 🌱 I’m currently learning Microservices
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/ingeduardocruz/)
 - 😄 Pronouns: He
