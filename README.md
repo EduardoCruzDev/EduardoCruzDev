@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EduardoCruzDev
 - 👀 I’m a Backend Developer
 - 😎 Java , MySql , Spring , Angular , Aws , Azure
--  Microservices
+- ⚡ Microservices
 - 🌱 I’m currently learning Cobol
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/ingeduardocruz/)
 - 😄 Pronouns: He
